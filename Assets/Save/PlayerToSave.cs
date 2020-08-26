@@ -6,4 +6,5 @@ public class PlayerToSave : MonoBehaviour
 {
     public int goldAmount;
     public int testInt;
+    public Vector3 playerPosition;
 }
